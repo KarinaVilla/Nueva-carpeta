@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Mi tienda de mascotas</title>
+	<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+	<!-- Contenido de la página -->
+</body>
+</html>
+section {
+	background-color: #f2f2f2;
+}
+h2 {
+	color: #007bff;
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 16px;
+}
